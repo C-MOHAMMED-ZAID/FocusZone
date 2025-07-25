@@ -47,6 +47,7 @@ This project is part of a learning journey focused on:
 
 focuszone/
 │
+
 ├── index.html # Main structure
 
 ├── style.css # Custom styles (mobile-first, responsive)
